@@ -66,6 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - The dataset used for this project is from [Kaggle's Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats).
 - The pre-trained models used in this project are from the [Keras Applications](https://keras.io/api/applications/) module.
-```
 
-You can copy and paste this code into your `README.md` file in your repository.
