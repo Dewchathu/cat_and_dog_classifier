@@ -1,6 +1,4 @@
-Sure! Here is the `README.md` content in a code block format:
 
-```markdown
 # Cat and Dog Classifier
 
 This repository contains a project for classifying images of cats and dogs using transfer learning. The project is implemented in Python using Jupyter Notebook and leverages the power of pre-trained deep learning models.
