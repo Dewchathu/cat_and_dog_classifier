@@ -46,7 +46,7 @@ jupyter notebook cat_and_dog_classifier_with_transfer_learning.ipynb
 The notebook demonstrates the following steps:
 
 1. **Data Preparation**: Loading and preprocessing the dataset.
-2. **Transfer Learning**: Using a pre-trained model (such as VGG16, ResNet50, etc.) for feature extraction.
+2. **Transfer Learning**: Using a pre-trained model (Xception) for feature extraction.
 3. **Model Training**: Training a custom classifier on top of the pre-trained model.
 4. **Evaluation**: Evaluating the model's performance on the test set.
 
